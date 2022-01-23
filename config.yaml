@@ -1,4 +1,5 @@
-baseURL: "https://blog.littlecontrol.me/"
+# baseURL: "https://blog.littlecontrol.me/"
+baseURL: "/"
 languageCode: "en-us"
 title: "LittleControl's Blog"
 theme: "PaperMod"
