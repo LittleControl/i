@@ -1,3 +1,4 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: "https://blog.littlecontrol.me/"
+languageCode: "en-us"
+title: "LittleControl's Blog"
+theme: "PaperMod"
