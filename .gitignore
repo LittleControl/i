@@ -2,3 +2,5 @@
 /public
 /resources
 /Temp
+.vscode
+.DS_store
