@@ -6,3 +6,4 @@
 .DS_store
 .vitepress
 node_modules/
+package-lock.json
