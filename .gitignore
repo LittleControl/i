@@ -2,7 +2,6 @@
 /public
 /resources
 /Temp
-.vscode/
 .DS_store
 .vitepress
 node_modules/
